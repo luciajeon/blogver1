@@ -1,4 +1,4 @@
-# Developer's Blog using Django
+# Personal Blog (ver.1) using Django
 
 This is Lucia Jeon's blog making project using Django, and it's a project for CS Independent Guided Studies in NYU Tandon School of Engineering under the guidance of professor Callahan. The project's main focus is to learn backend management using Django and Python.
 
